@@ -3,3 +3,6 @@ I performed key data-cleaning steps such as fixing inconsistent data types, expa
 unpivoting the category table, and filtering out low-value transactions below ₹100. I also created a merchant-level transaction summary 
 to support better analysis. Finally, I built a simple **Power BI dashboard**—my first-ever dashboard—to visualize transaction trends,
 merchant performance, and spending patterns.
+
+
+![image alt](https://github.com/AppalaNikitha/Power-BI-Data-Transformations/blob/main/Screenshot%202025-11-24%20195232.png?raw=true)
